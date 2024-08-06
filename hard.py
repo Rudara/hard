@@ -1,1 +1,1 @@
-myname = 12
+print("ln")
